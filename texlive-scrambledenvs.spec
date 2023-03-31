@@ -1,6 +1,6 @@
 Name:		texlive-scrambledenvs
 Version:	60615
-Release:	1
+Release:	2
 Summary:	Create and print scrambled environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrambledenvs
