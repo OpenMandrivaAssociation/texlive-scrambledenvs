@@ -3,7 +3,7 @@ Version:	60615
 Release:	2
 Summary:	Create and print scrambled environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrambledenvs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scrambledenvs
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrambledenvs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrambledenvs.doc.r%{version}.tar.xz
